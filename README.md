@@ -1,4 +1,4 @@
-# Welcome to Cascadia Marquee 🎪
+# Welcome to Cascadia Marquee
 
 Welcome to the team! We're excited to have you here.
 
@@ -6,14 +6,14 @@ Welcome to the team! We're excited to have you here.
 
 Cascadia Marquee is a development firm specializing in building high-quality e-commerce solutions and modern web applications. Our expertise lies in two core areas:
 
-### 🛍️ Shopify Development
+### Shopify Development
 We help businesses succeed in e-commerce by creating custom Shopify solutions that drive sales and enhance customer experiences. Our team has deep expertise in:
 - Custom Shopify theme development
 - Shopify app development
 - E-commerce integrations and customizations
 - Performance optimization for online stores
 
-### ⚛️ Next.js Applications
+### Next.js Applications
 We build modern, performant web applications using Next.js, leveraging the latest web technologies to create fast, scalable, and SEO-friendly solutions. Our Next.js expertise includes:
 - Server-side rendering (SSR) and static site generation (SSG)
 - React-based web applications
